@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 编辑器与系统
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# 注意：data/ 与 *.csv 故意不忽略 —— 本项目需要它们才能复现
